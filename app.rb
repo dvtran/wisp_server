@@ -16,7 +16,6 @@ require 'pg'
 require 'activerecord'
 require 'sinatra-activerecord'
 # require 'activerecord-postgres-adapter'
-require 'rdiscount'
 require './config/environments'
 require './models/model'
 
